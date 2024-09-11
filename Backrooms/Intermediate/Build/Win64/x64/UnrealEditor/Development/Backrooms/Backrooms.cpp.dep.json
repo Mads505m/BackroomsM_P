@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\45519\\desktop\\kodejava\\backroomsp-m\\backrooms\\source\\backrooms\\backrooms.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\45519\\desktop\\kodejava\\backroomsp-m\\backrooms\\intermediate\\build\\win64\\x64\\backroomseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\45519\\desktop\\kodejava\\backroomsp-m\\backrooms\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\backrooms\\definitions.backrooms.h",
+            "c:\\users\\45519\\desktop\\kodejava\\backroomsp-m\\backrooms\\source\\backrooms\\backrooms.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

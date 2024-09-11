@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Backrooms",
+			"Path": "..\\Source\\Backrooms.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BackroomsEditor",
+			"Path": "..\\Source\\BackroomsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
