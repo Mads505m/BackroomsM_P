@@ -3938,3 +3938,17 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.11.14-17.08.28:117][181]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
 [2024.11.14-17.08.28:117][181]LogShaderCompilers: Display: Material Cache Hits: 23 (17%)
 [2024.11.14-17.08.28:117][181]LogShaderCompilers: Display: ================================================
+[2024.11.14-17.13.54:638][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.11.14-17.13.54:643][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LEVELS/LEVEL1DEMO/Level1/8/UE/BCV7UOF9L1ESXYTBDEGHIV_Auto6
+[2024.11.14-17.13.54:643][407]LogSavePackage: Moving '../../../../../../Users/45519/Desktop/Kodejava/BackroomsM_P/Backrooms/Saved/BCV7UOF9L1ESXYTBDEGHIV_Auto64B950389472B1000B9A162B38824DB7B.tmp' to '../../../../../../Users/45519/Desktop/Kodejava/BackroomsM_P/Backrooms/Saved/Autosaves/Game/__ExternalActors__/LEVELS/LEVEL1DEMO/Level1/8/UE/BCV7UOF9L1ESXYTBDEGHIV_Auto6.uasset'
+[2024.11.14-17.13.54:646][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LEVELS/LEVEL1DEMO/Level1/5/0H/GPP7ND5YHPULQ7TG31BD6P_Auto6
+[2024.11.14-17.13.54:646][407]LogSavePackage: Moving '../../../../../../Users/45519/Desktop/Kodejava/BackroomsM_P/Backrooms/Saved/GPP7ND5YHPULQ7TG31BD6P_Auto63F5E752B496BD1506F7FA3A4804C378B.tmp' to '../../../../../../Users/45519/Desktop/Kodejava/BackroomsM_P/Backrooms/Saved/Autosaves/Game/__ExternalActors__/LEVELS/LEVEL1DEMO/Level1/5/0H/GPP7ND5YHPULQ7TG31BD6P_Auto6.uasset'
+[2024.11.14-17.13.54:648][407]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LEVELS/LEVEL1DEMO/Level1' took 0.030
+[2024.11.14-17.13.54:648][407]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2024.11.14-17.13.54:649][407]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Testitem/BP_item] ([2] browsable assets)...
+[2024.11.14-17.13.54:774][407]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Inventory/Testitem/BP_item.BP_item]
+[2024.11.14-17.13.54:774][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Testitem/BP_item]
+[2024.11.14-17.13.54:781][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/Testitem/BP_item_Auto6
+[2024.11.14-17.13.54:781][407]LogSavePackage: Moving '../../../../../../Users/45519/Desktop/Kodejava/BackroomsM_P/Backrooms/Saved/BP_item_Auto61C164C8246D816355128FD918CA2F6E5.tmp' to '../../../../../../Users/45519/Desktop/Kodejava/BackroomsM_P/Backrooms/Saved/Autosaves/Game/Inventory/Testitem/BP_item_Auto6.uasset'
+[2024.11.14-17.13.54:783][407]LogFileHelpers: Auto-saving content packages took 0.135
+[2024.11.14-17.55.09:421][830]LogDerivedDataCache: C:/Users/45519/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
