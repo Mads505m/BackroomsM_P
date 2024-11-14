@@ -5484,3 +5484,26 @@ Script Stack (0 frames) :
 [2024.11.14-19.57.53:574][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.11.14-19.57.53:584][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
 [2024.11.14-19.57.53:704][524]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2024.11.14-19.58.29:852][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.11.14-19.58.29:859][806]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LEVELS/LEVEL1DEMO/Level1' took 0.028
+[2024.11.14-19.58.29:860][806]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.11.14-19.58.29:860][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.11.14-19.58.29:880][806]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7
+[2024.11.14-19.58.29:880][806]LogSavePackage: Moving '../../../../../../Users/45519/Desktop/Kodejava/BackroomsM_P/Backrooms/Saved/BP_ThirdPersonCharacter_Auto7380EE14746DB312239EF81B12A83BF9D.tmp' to '../../../../../../Users/45519/Desktop/Kodejava/BackroomsM_P/Backrooms/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7.uasset'
+[2024.11.14-19.58.29:882][806]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_Manny] ([2] browsable assets)...
+[2024.11.14-19.58.30:013][806]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny]
+[2024.11.14-19.58.30:013][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_Manny]
+[2024.11.14-19.58.30:065][806]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/ABP_Manny_Auto7
+[2024.11.14-19.58.30:065][806]LogSavePackage: Moving '../../../../../../Users/45519/Desktop/Kodejava/BackroomsM_P/Backrooms/Saved/ABP_Manny_Auto705BB0FAB4BC7BF0603616C80A422701E.tmp' to '../../../../../../Users/45519/Desktop/Kodejava/BackroomsM_P/Backrooms/Saved/Autosaves/Game/Characters/Mannequins/Animations/ABP_Manny_Auto7.uasset'
+[2024.11.14-19.58.30:067][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Animations/Manny/Crouch] ([1] browsable assets)...
+[2024.11.14-19.58.30:097][806]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequins/Animations/Manny/Crouch.Crouch]
+[2024.11.14-19.58.30:097][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/Manny/Crouch]
+[2024.11.14-19.58.30:115][806]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/Manny/Crouch_Auto7
+[2024.11.14-19.58.30:115][806]LogSavePackage: Moving '../../../../../../Users/45519/Desktop/Kodejava/BackroomsM_P/Backrooms/Saved/Crouch_Auto729ED4D304CEEE96E4F22DBAFFD4CDBA6.tmp' to '../../../../../../Users/45519/Desktop/Kodejava/BackroomsM_P/Backrooms/Saved/Autosaves/Game/Characters/Mannequins/Animations/Manny/Crouch_Auto7.uasset'
+[2024.11.14-19.58.30:117][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Animations/Manny/CrouchWalk] ([1] browsable assets)...
+[2024.11.14-19.58.30:149][806]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequins/Animations/Manny/CrouchWalk.CrouchWalk]
+[2024.11.14-19.58.30:149][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/Manny/CrouchWalk]
+[2024.11.14-19.58.30:165][806]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/Manny/CrouchWalk_Auto7
+[2024.11.14-19.58.30:165][806]LogSavePackage: Moving '../../../../../../Users/45519/Desktop/Kodejava/BackroomsM_P/Backrooms/Saved/CrouchWalk_Auto72648191747F813D63D3C3C914F10F460.tmp' to '../../../../../../Users/45519/Desktop/Kodejava/BackroomsM_P/Backrooms/Saved/Autosaves/Game/Characters/Mannequins/Animations/Manny/CrouchWalk_Auto7.uasset'
+[2024.11.14-19.58.30:166][806]LogFileHelpers: Auto-saving content packages took 0.307
+[2024.11.14-20.03.37:623][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
